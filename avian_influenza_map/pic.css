@@ -1,0 +1,69 @@
+#pic0{
+	position: absolute;
+	top: 150px;
+	left: 0px;
+	z-index:-1;
+}
+
+#pic1{
+	position: absolute;
+	top: 150px;
+	left: 0px;
+	z-index:0;
+}
+
+#pic2{
+	position: absolute;
+	top: 150px;
+	left: 0px;
+	z-index:1;
+}
+
+#pic3{
+	position: absolute;
+	top: 150px;
+	left: 0px;
+	z-index:2;
+}
+
+#pic4{
+	position: absolute;
+	top: 150px;
+	left: 0px;
+	z-index:3;
+}
+
+#pic5{
+	position: absolute;
+	top: 150px;
+	left: 0px;
+	z-index:4;
+}
+
+#pic6{
+	position: absolute;
+	top: 150px;
+	left: 0px;
+	z-index:5;
+}
+
+#pic7{
+	position: absolute;
+	top: 150px;
+	left: 0px;
+	z-index:6;
+}
+
+#pic8{
+	position: absolute;
+	top: 150px;
+	left: 0px;
+	z-index:7;
+}
+
+#pic9{
+	position: absolute;
+	top: 150px;
+	left: 0px;
+	z-index:8;
+}
