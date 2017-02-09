@@ -6,21 +6,13 @@
 <link rel=stylesheet href="pic.css" type="text/css">
 <script src="display.js"></script>
 
-<script language="javascript">
-function reSize(){
-　　parent.document.all.frameid.height=document.body.scrollHeight; 
-} 
-window.onload=reSize;
-</script>
-
-// <script>
-//  	function resize() { parent.document.getElementById("mainframe").height=document.body.scrollHeight; 
-//  	} 
-// </script> 
+<script>
+ 	function resize() { parent.document.getElementById("mainframe").height=document.body.scrollHeight; 
+ 	} 
+</script> 
 </head>
 
-<!-- onload="resize();" -->
-<body>
+<body onload="resize();">
 <h1>全球候鳥遷徙路徑圖</h1>
 <p>資料來源：Global Interfly Network</p>
 
