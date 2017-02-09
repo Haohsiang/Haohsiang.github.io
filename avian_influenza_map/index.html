@@ -5,10 +5,13 @@
 <title>測試頁</title>
 <link rel=stylesheet href="pic.css" type="text/css">
 <script src="display.js"></script>
+<script>
+ function resize() { parent.document.getElementById("mainframe").height=document.body.scrollHeight;  //將子頁面高度傳到父頁面框架} 
+</script> 
 </head>
 
 
-<body>
+<body onload="resize();">
 <h1>全球候鳥遷徙路徑圖</h1>
 <p>資料來源：Global Interfly Network</p>
 
