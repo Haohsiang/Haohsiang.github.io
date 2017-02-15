@@ -70,3 +70,10 @@ function displayPic9(){
 	}
 }
 
+function displayPic10(){
+	if(document.getElementById("pic10").style.display=="none"){
+		document.getElementById("pic10").style.display="";
+	}else{
+		document.getElementById("pic10").style.display="none";
+	}
+}
