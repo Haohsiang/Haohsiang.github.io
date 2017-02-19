@@ -28,3 +28,12 @@
 	height: auto;
 }
 
+#pic4{
+	position: absolute;
+	top: 50px;
+	left: 0px;
+	z-index:3;
+	width: 100%;
+	max-width: 100%;
+	height: auto;
+}
