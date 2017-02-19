@@ -42,8 +42,3 @@ function displayPic4(){
 	}
 }
 
-function resize()
-{　 　　　　
- parent.document.getElementById("mainframe").height=document.body.scrollHeight;  //將子頁面高度傳到父頁面框架　　　　　
-  }　　
-</script>
